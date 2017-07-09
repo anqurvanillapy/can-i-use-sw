@@ -6,7 +6,7 @@
 <body>
 <script>
 let yolo = ('serviceWorker' in navigator) ? 'Yeeeeeeeaaaaah!' : 'nope :('
-document.write(yolo)
+document.body.insertAdjacentHTML('afterbegin', `<h1>${yolo}</h1>`)
 </script>
 </body>
 </html>
