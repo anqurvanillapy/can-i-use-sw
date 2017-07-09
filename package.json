@@ -1,6 +1,6 @@
 {
   "name": "can-i-use-sw",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Can I use Service Worker?",
   "main": "index.js",
   "scripts": {
